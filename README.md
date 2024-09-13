@@ -1,5 +1,5 @@
 # ImagesToRead
-Repository for test text recognition of images
+Repository for testing text recognition of images
 
 ## Explorando os Recursos de IA Generativa
 
