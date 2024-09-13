@@ -1,0 +1,80 @@
+### Resumo Descritivo da Imagem
+
+A imagem apresenta um manual de uso e cuidados para o produto "H2Joe", que parece ser um recipiente para bebidas, possivelmente um copo ou garrafa térmica. O documento é dividido em seções que explicam como encher o recipiente com água ou café, instruções para beber, e diretrizes de limpeza. O layout é claro, com ícones e instruções passo a passo, além de avisos de segurança.
+
+### Extração de Texto
+
+**Cabeçalho:**
+- "H2Joe"
+- "Use and Care Instructions"
+
+**Cuidado:**
+- "Caution: The beverage you are about to enjoy may be very hot."
+- "Keep out of reach of children when filled with hot liquids."
+- "DO NOT fill upper water/cold section with hot liquids."
+- "DO NOT fill with soda or other carbonated beverages."
+- "DO NOT Overfill."
+- "DO NOT Microwave or Freeze."
+- "DO NOT continue to use if product is damaged."
+- "DO NOT use cleaners containing bleach, chlorine, abrasives and/or other harsh chemicals."
+
+**Preenchendo seu H2Joe com Água:**
+- "Remove lid by turning counterclockwise."
+- "Fill with 12 ounces (355ml) of cold or room temperature water or other non-carbonated beverage."
+- "Tighten lid by turning clockwise. Be sure to have the tick marks line up on the lid and the body."
+
+**Preenchendo seu H2Joe com Café:**
+- "Remove coffee section by turning counterclockwise."
+- "Fill with 12 ounces (355ml) of hot or room temperature coffee, tea or other non-carbonated beverage."
+- "Reattach coffee section lid by turning clockwise until it stops."
+
+**Instruções de Limpeza:**
+- "Wash thoroughly before first use."
+- "Open the coffee flip lid and remove the water cap before washing."
+- "Rinse lid immediately after each use with warm water."
+- "H2Joe is top-rack dishwasher safe."
+- "To hand wash, wash the body, lid, and coffee section with warm water and a mild detergent."
+
+**Para Limpeza Extra:**
+- "Remove the top gasket and clean with a scrub brush."
+- "And clean the coffee transport and air tubes in the body with a straw brush."
+- "Always store H2Joe with top and lid removed to allow parts to completely dry."
+
+### Tradução do Texto para o Português
+
+**Cabeçalho:**
+- "H2Joe"
+- "Instruções de Uso e Cuidado"
+
+**Cuidado:**
+- "Cuidado: A bebida que você está prestes a desfrutar pode estar muito quente."
+- "Mantenha fora do alcance de crianças quando cheio com líquidos quentes."
+- "NÃO preencha a seção superior de água/fria com líquidos quentes."
+- "NÃO preencha com refrigerantes ou outras bebidas carbonatadas."
+- "NÃO sobrecarregue."
+- "NÃO coloque no micro-ondas ou congele."
+- "NÃO continue a usar se o produto estiver danificado."
+- "NÃO use produtos de limpeza que contenham alvejante, cloro, abrasivos e/ou outros produtos químicos agressivos."
+
+**Preenchendo seu H2Joe com Água:**
+- "Remova a tampa girando no sentido anti-horário."
+- "Preencha com 12 onças (355ml) de água fria ou em temperatura ambiente ou outra bebida não carbonatada."
+- "Aperte a tampa girando no sentido horário. Certifique-se de que as marcas de verificação estejam alinhadas na tampa e no corpo."
+
+**Preenchendo seu H2Joe com Café:**
+- "Remova a seção de café girando no sentido anti-horário."
+- "Preencha com 12 onças (355ml) de café quente ou em temperatura ambiente, chá ou outra bebida não carbonatada."
+- "Recoloque a tampa da seção de café girando no sentido horário até parar."
+
+**Instruções de Limpeza:**
+- "Lave bem antes do primeiro uso."
+- "Abra a tampa do café e remova a tampa de água antes de lavar."
+- "Enxágue a tampa imediatamente após cada uso com água morna."
+- "H2Joe é seguro para a prateleira superior da máquina de lavar louça."
+- "Para lavar à mão, lave o corpo, a tampa e a seção de café com água morna e um detergente suave."
+
+**Para Limpeza Extra:**
+- "Remova a junta superior e limpe com uma escova de esfregar."
+- "E limpe o transporte de café e os tubos de ar no corpo com uma escova de palha."
+- "Sempre armazene o H2Joe com a tampa e a tampa removidas para permitir que as peças sequem completamente."
+

@@ -1,0 +1,30 @@
+### Resumo Descritivo da Imagem
+
+A imagem apresenta uma cópia histórica da Declaração de Independência dos Estados Unidos, datada de 4 de julho de 1776. O documento é impresso em papel envelhecido, com um formato grande e texto em fonte serifada. O cabeçalho destaca "IN CONGRESS" e "DECLARATION BY THE REPRESENTATIVES OF THE UNITED STATES OF AMERICA". O texto é dividido em parágrafos e aborda a justificativa para a independência, mencionando os direitos dos cidadãos e as queixas contra a monarquia britânica. O documento termina com as assinaturas de John Hancock, presidente do Congresso, e Charles Thompson, secretário.
+
+### Extração de Texto
+
+**Cabeçalho:**
+- "IN CONGRESS, JULY 4, 1776"
+- "A DECLARATION BY THE REPRESENTATIVES OF THE UNITED STATES OF AMERICA, IN GENERAL CONGRESS ASSEMBLED."
+
+**Texto Principal:**
+- "WHEN in the course of human events, it becomes necessary for one people to dissolve the political bands which have connected them with another, and to assume among the powers of the earth, the separate and equal station to which the Laws of Nature and of Nature's God entitle them, a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation."
+- (O texto continua com várias queixas e justificativas sobre a necessidade da independência.)
+
+**Assinaturas:**
+- "Signed by Order and in Behalf of the Congress, JOHN HANCOCK, President. Attest, CHARLES THOMPSON, Secretary."
+
+### Tradução do Texto para o Português
+
+**Cabeçalho:**
+- "NO CONGRESSO, 4 DE JULHO DE 1776"
+- "UMA DECLARAÇÃO DOS REPRESENTANTES DOS ESTADOS UNIDOS DA AMÉRICA, EM CONGRESSO GERAL REUNIDO."
+
+**Texto Principal:**
+- "QUANDO, no curso dos eventos humanos, se torna necessário que um povo dissolva os laços políticos que o conectam a outro, e assuma entre os poderes da terra, a estação separada e igual à qual as Leis da Natureza e do Deus da Natureza o habilitam, um respeito decente pelas opiniões da humanidade exige que declarem as causas que os impeliram à separação."
+- (O texto continua com várias queixas e justificativas sobre a necessidade da independência.)
+
+**Assinaturas:**
+- "Assinado por Ordem e em Nome do Congresso, JOHN HANCOCK, Presidente. Atesta, CHARLES THOMPSON, Secretário."
+

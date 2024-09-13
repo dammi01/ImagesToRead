@@ -1,0 +1,34 @@
+### Descrição da Imagem
+
+A imagem apresenta a capa do livro intitulado **"The Great Escape from Woodlands Nursing Home"** de **Joanna Nell**. A capa é vibrante, com um fundo vermelho e ilustrações que incluem um veículo branco, possivelmente uma van, com duas figuras dentro. Uma delas parece ser uma mulher mais velha, e a outra é uma mulher mais jovem. O design é lúdico e atraente, com um estilo de ilustração que sugere um tom leve e divertido.
+
+### Extração de Texto
+
+O texto contido na imagem é:
+
+```
+'Funny yet moving, poignant and warm-hearted
+A tonic for our times'
+Holly Miller
+
+the GREAT ESCAPE from
+WOODLANDS NURSING HOME
+
+JOANNA NELL
+```
+
+### Tradução do Texto para o Português
+
+A tradução do texto extraído é:
+
+```
+'Engraçado, mas comovente, pungente e caloroso
+Um tônico para os nossos tempos'
+Holly Miller
+
+a GRANDE FUGA de
+LARES DE IDOSOS WOODLANDS
+
+JOANNA NELL
+```
+

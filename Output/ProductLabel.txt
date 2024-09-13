@@ -1,0 +1,44 @@
+A imagem apresenta um rótulo de marmelada de frutas, especificamente de "Maçã Vermelha Suculenta". O design é colorido e alegre, com ilustrações de maçãs e folhas em um fundo verde claro. O rótulo destaca que o produto é 100% orgânico e feito à mão, com informações nutricionais e ingredientes.
+
+### Extração de Texto
+
+**Cabeçalho:**
+- "HOMEMADE RECIPES"
+- "FRUIT MARMALADE"
+
+**Informações do Produto:**
+- "100% ORGANIC HANDMADE PRODUCT"
+- "Made from selected fruits and berries. Sugar, gluten, lactose free. Contains exclusively natural ingredients."
+- "Nº 8"
+- "JUICY RED APPLE"
+
+**Valores Nutricionais (por 100g):**
+- "proteins - 0.4g"
+- "fats - 0.2g"
+- "carbohydrates - 50g"
+- "Energy value: 250 kcal"
+
+**Peso:**
+- "370g + 5g"
+
+### Tradução do Texto para o Português
+
+**Cabeçalho:**
+- "RECEITAS CASEIRAS"
+- "MARMELADA DE FRUTAS"
+
+**Informações do Produto:**
+- "100% PRODUTO ARTESANAL ORGÂNICO"
+- "Feito de frutas e bagas selecionadas. Sem açúcar, glúten e lactose. Contém exclusivamente ingredientes naturais."
+- "Nº 8"
+- "MAÇÃ VERMELHA SUCULENTA"
+
+**Valores Nutricionais (por 100g):**
+- "proteínas - 0,4g"
+- "gorduras - 0,2g"
+- "carboidratos - 50g"
+- "Valor energético: 250 kcal"
+
+**Peso:**
+- "370g + 5g"
+

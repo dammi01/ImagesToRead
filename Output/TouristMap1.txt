@@ -1,0 +1,21 @@
+### Resumo Descritivo da Imagem
+
+A imagem é um mapa da ilha da Madeira, Portugal, mostrando várias localidades e pontos de interesse. O mapa inclui:
+
+- **Cidades e Vilas**: Funchal, Monte, Câmara de Lobos, Machico, entre outras.
+- **Pontos de Interesse**: Jardins, miradouros, e áreas naturais.
+- **Estradas**: Várias estradas principais e secundárias estão marcadas, facilitando a navegação.
+
+### Detalhes do Mapa
+
+- **Números**: Cada localidade é numerada, com uma lista ao lado que fornece o nome correspondente a cada número.
+- **Escala**: A escala do mapa é de 1:250.000, com uma referência de 5 km.
+- **Inseto**: Um pequeno mapa no canto superior direito mostra a localização da ilha de Porto Santo, que é uma ilha vizinha.
+
+### Locais Destacados
+
+1. **Funchal** (1) - Capital da Madeira.
+2. **Monte** (2) - Conhecido por suas vistas e jardins.
+3. **Câmara de Lobos** (7) - Vila pitoresca famosa por sua tradição pesqueira.
+4. **Machico** (21) - Uma das principais cidades da ilha, com uma bela praia.
+

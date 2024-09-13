@@ -1,0 +1,37 @@
+### Resumo Descritivo da Imagem
+
+A imagem apresenta um certificado de dispensa das Forças Militares Australianas, datado de 19 de junho de 1945. O documento é formal e contém o brasão de armas da Austrália no topo. Ele certifica que o soldado James Moar McKenzie foi dispensado após servir em tempo integral nas Forças Militares Cidadãs. O certificado inclui detalhes sobre o período de serviço, que totaliza dois mil e quinhentos dias, com uma parte desse tempo servindo ativamente na Austrália e fora dela. O documento também menciona a elegibilidade para medalhas e condecorações.
+
+### Extração de Texto
+
+**Cabeçalho:**
+- "Australian Military Forces"
+- "Certificate of Discharge"
+- "Certificate No. 169841"
+
+**Texto Principal:**
+- "This is to Certify that - 791214 - Private James Moar McKenzie - who enlisted for the C.M.F. on the 18th day of Dec. 1940 and who served on Continuous Full Time War Service for a Total Effective Period of Two Thousand Five Hundred and Eighty-Two Days which included Active Service in Australia for 1163 days Outside Australia for ___ days is Discharged from the Citizen Military Forces."
+- "During that service, or by virtue of that service, the soldier was awarded, or became eligible for Medals and Decorations War Badge."
+
+**Assinaturas:**
+- "J. G. B. Gurnell, Capt, Fol. Officer in Charge, Victoria Echelons & Records."
+- "This Discharge takes effect on and from the 19th day of June One Thousand Nine Hundred and Forty-Five."
+- "Place: Royal Park"
+- "Date: 19/6/1945"
+
+### Tradução do Texto para o Português
+
+**Cabeçalho:**
+- "Forças Militares Australianas"
+- "Certificado de Dispensa"
+- "Certificado Nº 169841"
+
+**Texto Principal:**
+- "Este é para certificar que - 791214 - Soldado James Moar McKenzie - que se alistou para o C.M.F. no dia 18 de dezembro de 1940 e que serviu em Tempo Integral de Guerra por um Período Total Eficaz de Dois Mil e Quinhentos e Oitenta e Dois Dias, que incluiu Serviço Ativo na Austrália por 1163 dias e fora da Austrália por ___ dias, está dispensado das Forças Militares Cidadãs."
+- "Durante esse serviço, ou em virtude desse serviço, o soldado foi premiado ou se tornou elegível para Medalhas e Decorações, Insígnia de Guerra."
+
+**Assinaturas:**
+- "J. G. B. Gurnell, Capitão, Oficial Responsável, Echelons e Registros da Vitória."
+- "Esta dispensa entra em vigor a partir do dia 19 de junho de mil novecentos e quarenta e cinco."
+- "Local: Royal Park"
+- "Data: 19/6/1945"

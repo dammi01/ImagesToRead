@@ -1,0 +1,40 @@
+A imagem apresenta a primeira página do jornal "The Times", datada de 17 de junho de 2022. O cabeçalho destaca várias notícias, incluindo uma sobre os riscos de efeitos colaterais aumentados por médicos que prescrevem medicamentos em excesso. Há também uma menção ao impacto da inflação, com uma previsão de 11% para os britânicos, e uma citação do ministro Gove sobre a incapacidade do governo em ajudar a todos.
+
+### Extração de Texto
+
+**Cabeçalho:**
+- "THE TIMES"
+- "Friday June 17 2022"
+- "No 73812"
+- "£2.50 £1.45 to subscribers"
+
+**Principais Títulos:**
+- "Doctors increase side-effect risks with a pill for every ill"
+- "Pain ahead as Britons braced for 11% inflation"
+- "Gove says ministers unable to help everyone"
+- "Cheap sun lotions put eco brands in the shade"
+
+**Subtítulos e Detalhes:**
+- "Eleanor Hayward Health Correspondent"
+- "Britain must accept there will be 'pain' to come and that the government cannot help everyone."
+- "The US actor Kevin Spacey arriving yesterday at Westminster magistrate's court, where he was given unconditional bail over sex assault charges."
+
+### Tradução do Texto para o Português
+
+**Cabeçalho:**
+- "OS TEMPOS"
+- "Sexta-feira, 17 de junho de 2022"
+- "Nº 73812"
+- "£2,50 £1,45 para assinantes"
+
+**Principais Títulos:**
+- "Médicos aumentam os riscos de efeitos colaterais com um remédio para cada mal"
+- "Dor à frente enquanto britânicos se preparam para 11% de inflação"
+- "Gove diz que ministros incapazes de ajudar a todos"
+- "Protetores solares baratos colocam marcas ecológicas na sombra"
+
+**Subtítulos e Detalhes:**
+- "Eleanor Hayward, Correspondente de Saúde"
+- "A Grã-Bretanha deve aceitar que haverá 'dor' pela frente e que o governo não pode ajudar a todos."
+- "O ator americano Kevin Spacey chegando ontem ao tribunal de magistrados de Westminster, onde recebeu fiança incondicional por acusações de assédio sexual."
+

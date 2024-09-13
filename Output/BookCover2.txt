@@ -1,0 +1,42 @@
+### Resumo Descritivo da Imagem
+
+A imagem apresenta a capa de um livro, incluindo a frente, a lombada e a parte de trás. A capa é colorida e moderna, com um design que destaca o título do livro, "TITLE OF THE BOOK", e o autor, "A.N. AUTHOR". Na parte frontal, há uma ilustração de uma pessoa interagindo com uma representação de arte da capa do livro. A lombada também exibe o título e o autor. A parte de trás contém um texto explicativo sobre os elementos de uma capa de livro, além de um código de barras.
+
+### Extração de Texto
+
+**Frente:**
+- "TITLE OF THE BOOK"
+- "A.N. AUTHOR"
+- "The book's subtitle or tagline"
+
+**Lombada:**
+- "TITLE OF THE BOOK"
+- "SPINE"
+- "A.N. AUTHOR"
+
+**Parte de trás:**
+- "What are the elements of a book cover? Discover the truth that lies beneath the dust jacket."
+- "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+- "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+- "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. – Endorsement"
+- "ISBN: 1234 5678 6789"
+
+### Tradução do Texto para o Português
+
+**Frente:**
+- "TÍTULO DO LIVRO"
+- "A.N. AUTOR"
+- "O subtítulo ou tagline do livro"
+
+**Lombada:**
+- "TÍTULO DO LIVRO"
+- "LOMBADA"
+- "A.N. AUTOR"
+
+**Parte de trás:**
+- "Quais são os elementos de uma capa de livro? Descubra a verdade que está por trás da sobrecapa."
+- "É um fato amplamente estabelecido que um leitor será distraído pelo conteúdo legível de uma página ao olhar para seu layout. O ponto de usar Lorem Ipsum é que ele tem uma distribuição de letras mais ou menos normal, em vez de usar 'Conteúdo aqui, conteúdo aqui', fazendo parecer inglês legível."
+- "Muitos pacotes de publicação de desktop e editores de páginas da web agora usam Lorem Ipsum como seu texto modelo padrão, e uma busca por 'lorem ipsum' revelará muitos sites ainda em sua infância. Várias versões evoluíram ao longo dos anos, às vezes por acidente, às vezes de propósito (humor injetado e afins)."
+- "Existem muitas variações de trechos de Lorem Ipsum disponíveis, mas a maioria sofreu alteração de alguma forma, por humor injetado ou palavras aleatórias que não parecem nem um pouco críveis. – Endosse"
+- "ISBN: 1234 5678 6789"
+
